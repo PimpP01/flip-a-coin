@@ -1,0 +1,5 @@
+roll_dice = random.randint(0,1)
+if roll_dice == 0:
+  print("You flipped the coin & got Heads!")
+else:
+  print("You flipped the coin & got Tails!")
